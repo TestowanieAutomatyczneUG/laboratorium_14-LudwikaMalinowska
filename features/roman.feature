@@ -11,4 +11,3 @@ Feature: Converting numbers to roman
       | 575  | DLXXV |
       | 1024 | MXXIV |
 
-    
