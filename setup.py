@@ -186,7 +186,8 @@ setup(
     # executes the function `main` from this package when invoked:
     entry_points={  # Optional
         'console_scripts': [
-            'roman=roman:Roman',
+            'roman=src:Roman',
+            'isbn=src:ISBN',
         ],
     },
 
